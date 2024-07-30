@@ -1,0 +1,30 @@
+*{
+    font-family: "Mulish", sans-serif;
+}
+header{
+    background-color: #606676 ;
+}
+header span{
+    color: #FEF3E2;
+}
+.nav-item a{
+    color: #FEF3E2;
+}
+.nav-item a:visited{
+    color: #FEF3E2;
+}
+.nav-item a:hover{
+    color: #708871;
+}
+#nav-button{
+    background-color: #708871;
+}
+.bi{
+    background-color: #708871;
+    font-size: 2em;
+}
+.img-proyecto1{
+    background-image: url('/assets/clonPinterest.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
