@@ -28,3 +28,15 @@ header span{
     background-size: contain;
     background-repeat: no-repeat;
 }
+footer{
+    background-color: #606676;
+  
+}
+footer .icon-footer i{
+    color: #FEF3E2;
+}footer p{
+    color: #FEF3E2;
+}
+footer p a{
+    color: #FEF3E2;
+}
