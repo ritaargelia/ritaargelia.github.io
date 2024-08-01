@@ -21,4 +21,3 @@ El propósito de esta página web es mostrar mi portafolio de proyectos como des
 * Contacto
 
 Si quieres ver mi portafolio, te invito a visitar el siguiente enlace: https://ritaargelia.github.io
-
