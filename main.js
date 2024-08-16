@@ -8,9 +8,9 @@ var typewriter = new Typewriter(app, {
 typewriter.typeString('Licenciada en Informática | Desarrolladora Frontend Jr.')
     .pauseFor(2500)
     .deleteAll()
-    .typeString('Si lo puedes imaginar,...')
+    .typeString('Si se puede imaginar,...')
     .pauseFor(2500)
     .deleteChars(3)
-    .typeString('<strong> lo puedes programar!</strong>')
+    .typeString('<strong> se puede programar!</strong>')
     .pauseFor(2500)
     .start();

@@ -1,7 +1,7 @@
 # Portafolio de Rita Argelia García Ortiz
 ## Proyecto responsivo realizado con Bootstrap 5
 
-Proyecto creado durante el boorcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos.
+Proyecto creado durante el bootcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos.
 
 El propósito de esta página web es mostrar mi portafolio de proyectos como desarrolladora web
 

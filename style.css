@@ -24,7 +24,7 @@ header span{
     font-size: 2em;
 }
 .img-proyecto1{
-    background-image: url('/assets/clonPinterest.png');
+  /*  background-image: url('/assets/clonPinterest.png');*/
     background-size: contain;
     background-repeat: no-repeat;
 }
